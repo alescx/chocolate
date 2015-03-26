@@ -7,11 +7,11 @@ This plugin **does not load** the required CSS or JavaScript, but merely adds th
 ## Installation 
 
 Run
-`composer require commercial-hippie/chocolate:dev-master`
+`composer require alescx/chocolate:dev-master`
 or add the following into your composer.json and run `composer update`.
 ```
 "require" : {
-  "commercial-hippie/chocolate": "dev-master"
+  "alescx/chocolate": "dev-master"
 }
 ```
 
